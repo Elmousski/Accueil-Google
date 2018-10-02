@@ -27,7 +27,7 @@
 			<div class="element3">
 				<form action="https://encrypted.google.com/search?hl=fr&amp;source=hp&amp;q=" id="myform">
        		<p>
-           <input type="text" name="q" placeholder="Google d'Alexandre'" />
+           <input type="text" name="q" placeholder="Google d'Alexandre !" />
        		</p>
 			<p>
            <input id="sGoogle" type="submit" value="Recherche Google"/>
